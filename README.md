@@ -23,3 +23,10 @@ python3 main.py --exp zhang_exp --config zhang_best
 ```
 python3 eval.py --exp zhang_exp
 ```
+## Citation
+@article{ye2025rsie,
+  title={Compact Structural Feature Enhancement for Unsupervised Anomaly Detection in Chest Radiographs},
+  author={Ye, Jixun and Gao, WanHui and Wu, Yun  and Jiao, Ge},
+  journal={The Visual Computer},
+  year={2025}
+}
