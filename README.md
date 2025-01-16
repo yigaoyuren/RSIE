@@ -23,6 +23,8 @@ python3 main.py --exp zhang_exp --config zhang_best
 ```
 python3 eval.py --exp zhang_exp
 ```
+
+Test data ：https://docs.google.com/spreadsheets/d/1cmJyJhBN-yKZnucqWgHrEXRZ7Z-h9nqy/edit?usp=drive_link&ouid=105636907703743304488&rtpof=true&sd=true
 ## Citation
 ```
 @article{ye2025rsie,
