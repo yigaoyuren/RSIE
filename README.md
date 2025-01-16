@@ -3,6 +3,8 @@
 The dataset used in the paper can be found here：https://drive.google.com/drive/my-drive?hl=zh-tw
 
 Change the address of your dataset in configs/base.py
+
+Before training please create a folder called checkpoints under the root directory
 ## Dependencies
 GeForce RTX 3080 
 
