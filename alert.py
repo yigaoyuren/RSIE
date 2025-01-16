@@ -90,22 +90,7 @@ class GanAlert(object):
         fpr, tpr, thres = roc_curve(labels, scores)
 
         auc_score = auc(fpr, tpr) * 100.
-        # with open('scores_records_SQUID_chexpert_6.txt', 'w') as f:
-        #     f.write("Score\n")
-        #     for score in scores:
-        #         # Ensure score is converted to float before writing
-        #         f.write(f"{float(score):.6f}\n")
 
-        # plt.figure(figsize=(8, 6))
-        # plt.plot(fpr, tpr, color='darkorange', lw=2, label='ROC curve (area = %0.2f%%)' % auc_score)
-        # plt.plot([0, 1], [0, 1], color='navy', lw=2, linestyle='--')
-        # plt.xlim([0.0, 1.0])
-        # plt.ylim([0.0, 1.05])
-        # plt.xlabel('False Positive Rate')
-        # plt.ylabel('True Positive Rate')
-        # plt.title('Receiver Operating Characteristic (ROC) Curve')
-        # plt.legend(loc="lower right")
-        # plt.show()
 
         for t in thres:
             prediction = np.zeros_like(scores)
