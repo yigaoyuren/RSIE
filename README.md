@@ -11,7 +11,7 @@ conda install pytorch==1.13.0 torchvision==0.14.0 torchaudio==0.13.0 pytorch-cud
 ``` 
 python3 main.py --exp zhang_exp1 --config zhang_best
 ```
-## Train
+## Test
 ```
 python3 eval.py --exp zhang_exp1
 ```
