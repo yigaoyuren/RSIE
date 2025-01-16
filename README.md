@@ -1,2 +1,5 @@
 # RSIE
-Please wait for a while, I will gradually improve the code and upload it
+##Data
+The dataset used in the paper can be found here：
+Change the address of your dataset in configs/base.py
+## Dependencies
