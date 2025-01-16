@@ -1,4 +1,6 @@
 # RSIE
+## Title
+Compact Structural Feature Enhancement for Unsupervised Anomaly Detection in Chest Radiographs
 ## Data
 The dataset used in the paper can be found here：
 
