@@ -31,7 +31,7 @@ Test data ：[https://docs.google.com/spreadsheets/d/1cmJyJhBN-yKZnucqWgHrEXRZ7Z
 ```
 @article{ye2025rsie,
   title={Compact Structural Feature Enhancement for Unsupervised Anomaly Detection in Chest Radiographs},
-  author={Ye, Jixun and Gao, Wanhui and Wu, Yun  and Jiao, Ge},
+  author={Jixun Ye,Wanhui Gao, Yun Wu  and Ge Jiao},
   journal={The Visual Computer},
   year={2025}
 }
