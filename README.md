@@ -14,11 +14,11 @@ Change the address of your dataset in configs/base.py
 
 Before training please create a folder called checkpoints under the root directory
 ## Pretrained Models
-ZhangLab：https://drive.google.com/drive/folders/1RXahcep9ylwYyt2qZzQ-S8j5DzcNmfl7?usp=drive_link
+ZhangLab：https://drive.google.com/file/d/14G2hhTpvW6YQMKd3oY4JiR9mjsTznNSU/view?usp=sharing
 
-Chexpert：(https://drive.google.com/file/d/1JGeK3Pp6A2B78ij48SXp6u-7kq9uRW8n/view?usp=sharing)
+Chexpert：https://drive.google.com/file/d/1JGeK3Pp6A2B78ij48SXp6u-7kq9uRW8n/view?usp=sharing
 
-COVIDx：https://drive.google.com/drive/folders/1YiQADOY2YQqREOUhVmHD5GX2kDXOCnv_?usp=drive_link
+COVIDx：https://drive.google.com/file/d/1EBoiIrMRBbvi06vwS9qHpJzkpdWwTBjR/view?usp=sharing
 ## Dependencies
 GeForce RTX 3080 
 
