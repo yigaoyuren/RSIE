@@ -16,7 +16,7 @@ Before training please create a folder called checkpoints under the root directo
 ## Pretrained Models
 ZhangLab：https://drive.google.com/drive/folders/1RXahcep9ylwYyt2qZzQ-S8j5DzcNmfl7?usp=drive_link
 
-Chexpert：https://drive.google.com/drive/folders/1v8OkaY1z7fMD2P9X3V3Jt_m4nhyXsgSo?usp=drive_link
+Chexpert：(https://drive.google.com/file/d/1JGeK3Pp6A2B78ij48SXp6u-7kq9uRW8n/view?usp=sharing)
 
 COVIDx：https://drive.google.com/drive/folders/1YiQADOY2YQqREOUhVmHD5GX2kDXOCnv_?usp=drive_link
 ## Dependencies
